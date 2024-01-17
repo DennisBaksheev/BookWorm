@@ -1,5 +1,8 @@
 # Bookworm Web App
 
+![BookWorm Web App](https://i.ibb.co/71dxkY1/BookWorm.png)
+
+
 ## Introduction
 Bookworm is a web application designed for book enthusiasts. It allows users to search for books, maintain a reading list, and utilize Google OAuth for secure sign-ins.
 
